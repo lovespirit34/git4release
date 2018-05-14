@@ -1,6 +1,7 @@
-How to open a file in Git:
-1. git checkout -b (branch name)
-2. git status
-3. git pull - pull in any changes that have been made
-4. git status: will updtae if status is clean
+How to create a nw branch from the current branch:
+Change directory to
+- git4release
+- git status (to make sure its on master)
+created a branch
+- git checkout ?b tkt 2 origin/master (NOTE: tkt 2 is the name of the branch you are creating)
 
