@@ -1,7 +1,7 @@
 How to create a nw branch from the current branch:
-Change directory to
-- git4release
-- git status (to make sure its on master)
-created a branch
-- git checkout ?b tkt 2 origin/master (NOTE: tkt 2 is the name of the branch you are creating)
+Change directory to:
+1. git4release
+2. git status (to make sure its on master)
+    created a branch
+3. git checkout ?b tkt 2 origin/master (NOTE: tkt 2 is the name of the branch you are creating)
 
