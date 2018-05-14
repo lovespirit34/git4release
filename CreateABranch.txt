@@ -1,1 +1,6 @@
-How to create a nw branch from the current branch:
+How to open a file in Git:
+1. git checkout -b (branch name)
+2. git status
+3. git pull - pull in any changes that have been made
+4. git status: will updtae if status is clean
+
