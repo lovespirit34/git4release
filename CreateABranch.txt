@@ -4,4 +4,11 @@ Change directory to
 - git status (to make sure its on master)
 created a branch
 - git checkout ?b tkt 2 origin/master (NOTE: tkt 2 is the name of the branch you are creating)
+VIM:
+Saving-
+1: esc, :wq = write and quit
+2. esc, :q! = force quit (not saving any changes)
+3. esc, :wq! = save and force quit 
+How to start typing text in VIM:
+1: select "I" 
 
